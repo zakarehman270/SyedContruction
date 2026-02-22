@@ -16,7 +16,6 @@ const Home = () => {
   const dropdownRef = useRef(null);
   const location = useLocation();
 
-
   const videoRef = useRef(null);
 
   const handleVideoClick = () => {
@@ -24,7 +23,7 @@ const Home = () => {
       videoRef.current.muted = !videoRef.current.muted;
     }
   };
-  
+
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "smooth" });
     return () => {};
@@ -33,7 +32,7 @@ const Home = () => {
     setFilter(event.target.value);
   };
   const filteredServices = services.filter((option) =>
-    option.title.toLowerCase().includes(filter.toLowerCase())
+    option.title.toLowerCase().includes(filter.toLowerCase()),
   );
 
   useEffect(() => {
@@ -355,35 +354,45 @@ const Home = () => {
           </div>
           <div className="col-md-3">
             <p className="ServiceListHeading">Moving & Storage</p>
-            <p className="ServiceListSubHeading mt-2">Local moving in Dubai</p>
             <p className="ServiceListSubHeading mt-2">
-              International moving from Dubai
+              Local moving in Islamabad
             </p>
-            <p className="ServiceListSubHeading mt-2">Villa moving in Dubai</p>
             <p className="ServiceListSubHeading mt-2">
-              Furniture moving in Dubai
+              International moving from Islamabad
             </p>
-            <p className="ServiceListSubHeading mt-2">Office moving in Dubai</p>
-            <p className="ServiceListSubHeading mt-2">Storage in Dubai</p>
             <p className="ServiceListSubHeading mt-2">
-              Furniture Storage in Dubai
+              Villa moving in Islamabad
             </p>
-            <p className="ServiceListSubHeading mt-2">Car Shipping in Dubai</p>
+            <p className="ServiceListSubHeading mt-2">
+              Furniture moving in Islamabad
+            </p>
+            <p className="ServiceListSubHeading mt-2">
+              Office moving in Islamabad
+            </p>
+            <p className="ServiceListSubHeading mt-2">Storage in Islamabad</p>
+            <p className="ServiceListSubHeading mt-2">
+              Furniture Storage in Islamabad
+            </p>
+            <p className="ServiceListSubHeading mt-2">
+              Car Shipping in Islamabad
+            </p>
           </div>
 
           <div className="col-md-3">
             <p className="ServiceListHeading">AC Services</p>
-            <p className="ServiceListSubHeading mt-2">AC Cleaning in Dubai</p>
             <p className="ServiceListSubHeading mt-2">
-              AC Duct Cleaning in Dubai
+              AC Cleaning in Islamabad
             </p>
             <p className="ServiceListSubHeading mt-2">
-              AC Installation in Dubai
+              AC Duct Cleaning in Islamabad
             </p>
             <p className="ServiceListSubHeading mt-2">
-              AC Maintenance in Dubai
+              AC Installation in Islamabad
             </p>
-            <p className="ServiceListSubHeading mt-2">AC Repair in Dubai</p>
+            <p className="ServiceListSubHeading mt-2">
+              AC Maintenance in Islamabad
+            </p>
+            <p className="ServiceListSubHeading mt-2">AC Repair in Islamabad</p>
           </div>
           <div className="col-md-3">
             <p className="ServiceListHeading">Cleaning Services</p>
@@ -399,25 +408,27 @@ const Home = () => {
           </div>
           <div className="col-md-3">
             <p className="ServiceListHeading">Maintenance & Handyman</p>
-            <p className="ServiceListSubHeading mt-2">Handyman in Dubai</p>
+            <p className="ServiceListSubHeading mt-2">Handyman in Islamabad</p>
             <p className="ServiceListSubHeading mt-2">
               Home Maintenance in Dibai
             </p>
             <p className="ServiceListSubHeading mt-2">
-              Annual Maintenance in Dubai
+              Annual Maintenance in Islamabad
             </p>
             <p className="ServiceListSubHeading mt-2">
-              Building & Flooring in Dubai
+              Building & Flooring in Islamabad
             </p>
-            <p className="ServiceListSubHeading mt-2">Carpentry in Dubai</p>
+            <p className="ServiceListSubHeading mt-2">Carpentry in Islamabad</p>
             <p className="ServiceListSubHeading mt-2">
-              Curtains & blinds in Dubai
+              Curtains & blinds in Islamabad
             </p>
-            <p className="ServiceListSubHeading mt-2">Electrician in Dubai</p>
             <p className="ServiceListSubHeading mt-2">
-              Furniture Assembly in Dubai
+              Electrician in Islamabad
             </p>
-            <p className="ServiceListSubHeading mt-2">Plumber in Dubai</p>
+            <p className="ServiceListSubHeading mt-2">
+              Furniture Assembly in Islamabad
+            </p>
+            <p className="ServiceListSubHeading mt-2">Plumber in Islamabad</p>
           </div>
         </div>
       </div>

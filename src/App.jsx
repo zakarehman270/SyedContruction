@@ -8,17 +8,17 @@ import TermAndCondition from "./Pages/TermAndCondition";
 import { FloatingWhatsApp } from "react-floating-whatsapp";
 import ServiceDetails from "./Pages/ServiceDetails";
 import DeepServiceDetails from "./Pages/DeepServiceDetails";
-import MetaTags from 'react-meta-tags';
+import MetaTags from "react-meta-tags";
 import BlogDetails from "./pages/BlogDetails";
 import Blog from "./pages/Blog";
 import AboutUs from "./pages/AboutUs";
-import Home from './pages/Home'
+import Home from "./pages/Home";
 function App() {
   return (
     <div>
       <FloatingWhatsApp
-        phoneNumber={"0516129852"}
-        accountName={"Ahmed"}
+        phoneNumber={"0374545836"}
+        accountName={"Syed Construction and Maintenance"}
         darkMode={true}
         allowEsc={true}
         allowClickAway={true}
@@ -52,5 +52,3 @@ function App() {
   );
 }
 export default App;
-
-

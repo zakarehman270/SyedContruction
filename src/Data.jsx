@@ -724,16 +724,16 @@ export let serviceDetailsList = [
     video: "https://www.youtube.com/watch?v=wuLm8kMDZOk",
     title: "Carpenter Service",
     title2:
-      "For big projects always rely on top carpenter service Dubai like Syed Construction and Maintenance s",
-    title3: "Kitchen Door Hinges Fixing Dubai:",
+      "For big projects always rely on top carpenter service Islamabad like Syed Construction and Maintenance s",
+    title3: "Kitchen Door Hinges Fixing Islamabad:",
 
     description1:
-      "Carpenters install different wooden fixtures and fittings using organic materials such as wood or lumber. In this position, you may be responsible for installing doors, flooring, and furniture in newly built spaces, restoring or adapting existing buildings, building sets for film and theater performances, and doing a variety of carpentry-related duties. Are you starting to get bored with how your house looks inside and out? If so consider top carpenter service Dubai as your preference in this spectrum. If you have an idea or a plan that has been brewing in your head for a few months, or even a year, about how to breathe new life into your home but do not have the carpentry skills to turn your ideas into reality, it is time to look for carpenter services to assist you. In every city and every town, there are a good number skilled professionals working under banner of top notch carpenter service Dubai like us. And these carpenters have a diverse set of skills, which vary according to their experience and the size of the company. For example, a lone carpenter who has been in his trade for only a couple of years must just be specializing in home repairs. That is for things like fixing your door and window, fixing a creaking floor, or building a nice tree house for your kids. There are also the big-time guys, the carpenters, who can work on every carpentry and construction project, and for the typical homeowner customer, they are offering home improvement services. These are the guys that you would want to contact if your home remodeling ideas consist of putting up an addition to your house, re-roofing, or completely remodeling the inside of your home.",
+      "Carpenters install different wooden fixtures and fittings using organic materials such as wood or lumber. In this position, you may be responsible for installing doors, flooring, and furniture in newly built spaces, restoring or adapting existing buildings, building sets for film and theater performances, and doing a variety of carpentry-related duties. Are you starting to get bored with how your house looks inside and out? If so consider top carpenter service Islamabad as your preference in this spectrum. If you have an idea or a plan that has been brewing in your head for a few months, or even a year, about how to breathe new life into your home but do not have the carpentry skills to turn your ideas into reality, it is time to look for carpenter services to assist you. In every city and every town, there are a good number skilled professionals working under banner of top notch carpenter service Islamabad like us. And these carpenters have a diverse set of skills, which vary according to their experience and the size of the company. For example, a lone carpenter who has been in his trade for only a couple of years must just be specializing in home repairs. That is for things like fixing your door and window, fixing a creaking floor, or building a nice tree house for your kids. There are also the big-time guys, the carpenters, who can work on every carpentry and construction project, and for the typical homeowner customer, they are offering home improvement services. These are the guys that you would want to contact if your home remodeling ideas consist of putting up an addition to your house, re-roofing, or completely remodeling the inside of your home.",
 
     description2:
-      "When projects as big as these are part of your home improvement plan, then you should put much effort into finding and hiring the right carpenter service Dubai for the job. You can start by asking a friend who recently had a home improvement project of his own if he can recommend the carpenter that worked for him. That is the best kind of recommendation that you can get because not only is your friend a reliable source, but you can actually see the work of that carpenter. If that does not work for you, then simply make some phone calls and individually interview these carpenter service Dubai. Look for the amount of experience that they have, and most importantly, ask for a portfolio of their previous carpentry projects so that you can get a good idea if they are the right people to do your home improvement. However, if all you want is a set of new kitchen cabinets, then you will have to look for carpenters who specialize in cabinetry. Some carpenters would prefer to just work on one specialty rather than spread their services too thinly. Because this allows them to master the art of cabinetry and establish themselves as the expert or authority on that type of carpentry service. And there are the multitude of professionals from carpenter service Dubai who call themselves handymen and who can do all the minor home repairs, including some Electrical and Plumbing repairs. These are the people that you will call when all you want are some minor repair jobs. As a result, the most important thing is to determine how complicated or large your home improvement or home repair is. Then narrow down your list to Syed Construction and Maintenance s as your prime carpenter service Dubai. Give us a call now to discuss the bright prospects.",
+      "When projects as big as these are part of your home improvement plan, then you should put much effort into finding and hiring the right carpenter service Islamabad for the job. You can start by asking a friend who recently had a home improvement project of his own if he can recommend the carpenter that worked for him. That is the best kind of recommendation that you can get because not only is your friend a reliable source, but you can actually see the work of that carpenter. If that does not work for you, then simply make some phone calls and individually interview these carpenter service Islamabad. Look for the amount of experience that they have, and most importantly, ask for a portfolio of their previous carpentry projects so that you can get a good idea if they are the right people to do your home improvement. However, if all you want is a set of new kitchen cabinets, then you will have to look for carpenters who specialize in cabinetry. Some carpenters would prefer to just work on one specialty rather than spread their services too thinly. Because this allows them to master the art of cabinetry and establish themselves as the expert or authority on that type of carpentry service. And there are the multitude of professionals from carpenter service Islamabad who call themselves handymen and who can do all the minor home repairs, including some Electrical and Plumbing repairs. These are the people that you will call when all you want are some minor repair jobs. As a result, the most important thing is to determine how complicated or large your home improvement or home repair is. Then narrow down your list to Syed Construction and Maintenance s as your prime carpenter service Islamabad. Give us a call now to discuss the bright prospects.",
     description3:
-      "If your kitchen door hinges want a restore, our organisation Handyman chippie Dubai can help. we've got a group of experienced carpenters who can quick and effortlessly fix any door hinge problem you can have. Door hinges are an important a part of any door, and maintaining them in precise operating order is critical to the overall feature of your door. Our chippie in Dubai is professional in fixing all sorts of door hinges, from small ones to massive ones. We keep in mind that occasionally doors can get damaged or wiped out over time, and we are here to help you repair those problems. We want to make certain that your doors are functioning properly and searching their excellent.",
+      "If your kitchen door hinges want a restore, our organisation Handyman chippie Islamabad can help. we've got a group of experienced carpenters who can quick and effortlessly fix any door hinge problem you can have. Door hinges are an important a part of any door, and maintaining them in precise operating order is critical to the overall feature of your door. Our chippie in Islamabad is professional in fixing all sorts of door hinges, from small ones to massive ones. We keep in mind that occasionally doors can get damaged or wiped out over time, and we are here to help you repair those problems. We want to make certain that your doors are functioning properly and searching their excellent.",
     details: (
       <div>
         <p>
@@ -816,7 +816,7 @@ export let serviceDetailsList = [
     title: "Electrician Work at Home",
     title2: "Why need for Electrician Work at Home",
     title3:
-      "Checkout Reasons to Hire a Professional Electrician Services in Dubai",
+      "Checkout Reasons to Hire a Professional Electrician Services in Islamabad",
     description1:
       "A variety of expert services pertaining to electrical systems, installations, repairs, and maintenance are commonly referred to as electrical services. In residential, commercial, or industrial contexts, this might involve duties like wiring, electrical installations, fixture replacements, troubleshooting, and general maintenance and improvements of electrical systems. Before talking about electrician work at home let’s discuss what these services are. Electrician services refer to the work performed by professionals who are trained and licensed to install, repair, and maintain electrical systems and equipment. This can include tasks such as wiring a new home or office building, installing and repairing electrical outlets and switches, and troubleshooting and repairing electrical problems. Electricians may also be responsible for installing and maintaining lighting systems, as well as working on motors, generators, and other electrical machinery. It is important to hire a licensed and qualified electrician for any electrician work at home to ensure that the job is completed safely and to code. Improperly installed or repaired electrical systems can pose a serious safety hazard and can cause damage to your home or business. If you need electrician services, it is recommended to research and compare electricians in your area to find a reputable and reliable professional like Syed Construction and Maintenance s.",
     description2: (
@@ -913,12 +913,12 @@ export let serviceDetailsList = [
     id: "4",
     img: "/assets/images/Plumbing.jpg",
     video: "https://www.youtube.com/watch?v=3UywnY3lGhI",
-    title: "Emergency Plumbing Dubai",
+    title: "Emergency Plumbing Islamabad",
     title2:
-      "Benefits of acquiring top emergency plumbing Dubai service like Syed Construction and Maintenance s",
+      "Benefits of acquiring top emergency plumbing Islamabad service like Syed Construction and Maintenance s",
     title3: "The way to find exceptional neighborhood Plumbers on your area?",
     description1:
-      "Plumbing services are professional services offered for the installation, maintenance, repair, and replacement of water supply, drainage, and sewage systems in buildings or infrastructure. Plumbers are experienced craftsmen who specialize in these systems, assuring appropriate operation, repairing leaks, blockages, and damages, and installing fixtures such as pipes, faucets, toilets, water heaters, and so on. Plumbing services include a variety of duties designed to assure the effective and safe movement of water into and out of homes, commercial buildings, and other structures. Before we get into the need for emergency plumbing Dubai services, let's define plumbing. Plumbing is the system of pipes, tanks, fittings, and other fixtures that is used to supply water to a building and to remove waste water and other waste products from the building. Plumbers are professionals who install and maintain these systems. Plumbing work can be quite complex, as it involves installing and repairing pipes, fittings, and fixtures that are used to carry water, gas, and waste in residential, commercial, and industrial buildings. Some common tasks that plumbers working under banner of any top emergency plumbing Dubai services might do include installing water heaters, repairing or replacing leaking pipes, and cleaning clogged drains",
+      "Plumbing services are professional services offered for the installation, maintenance, repair, and replacement of water supply, drainage, and sewage systems in buildings or infrastructure. Plumbers are experienced craftsmen who specialize in these systems, assuring appropriate operation, repairing leaks, blockages, and damages, and installing fixtures such as pipes, faucets, toilets, water heaters, and so on. Plumbing services include a variety of duties designed to assure the effective and safe movement of water into and out of homes, commercial buildings, and other structures. Before we get into the need for emergency plumbing Islamabad services, let's define plumbing. Plumbing is the system of pipes, tanks, fittings, and other fixtures that is used to supply water to a building and to remove waste water and other waste products from the building. Plumbers are professionals who install and maintain these systems. Plumbing work can be quite complex, as it involves installing and repairing pipes, fittings, and fixtures that are used to carry water, gas, and waste in residential, commercial, and industrial buildings. Some common tasks that plumbers working under banner of any top emergency plumbing Islamabad services might do include installing water heaters, repairing or replacing leaking pipes, and cleaning clogged drains",
     description2: (
       <div>
         <h1>Why Choose Professional Plumbers?</h1>
@@ -936,9 +936,9 @@ export let serviceDetailsList = [
           <li>
             Time-saving: A plumbing issue can be time-consuming to fix,
             especially if you don't have the necessary skills or tools. Hiring a
-            professional plumber from a topnotch emergency plumbing Dubai
-            services like Syed Construction and Maintenance s allows you to focus on other tasks
-            while they handle the problem.
+            professional plumber from a topnotch emergency plumbing Islamabad
+            services like Syed Construction and Maintenance s allows you to
+            focus on other tasks while they handle the problem.
           </li>
           <li>
             Warranty: Many plumbing companies offer warranties on their work, so
@@ -954,7 +954,8 @@ export let serviceDetailsList = [
         </ul>
         <p>
           If you want to take advantage of all of these emergency plumbing
-          services, then contact Syed Construction and Maintenance s for a free quote.
+          services, then contact Syed Construction and Maintenance s for a free
+          quote.
         </p>
       </div>
     ),
@@ -1056,10 +1057,10 @@ export let serviceDetailsList = [
     img: "/assets/images/ElectricalMaintenance.jpeg",
     video: "https://www.youtube.com/watch?v=lYlBcy_y7U8",
     title: "Electrical Maintenance",
-    title2: "Why need for electrical maintenance company in Dubai",
+    title2: "Why need for electrical maintenance company in Islamabad",
     title3: "The way to find exceptional neighborhood Plumbers on your area?",
     description1:
-      "The service pertaining to Syed Construction and Maintenance s electrical maintenance company in Dubai refers to the upkeep and repair of electrical systems and equipment. This can include tasks such as inspecting and testing electrical systems and components, identifying and repairing electrical issues, and replacing worn or damaged electrical components. Electrical maintenance service is typically performed by trained and certified Electrician who have the knowledge and skills to safely and effectively perform these tasks. Electrical maintenance is important for ensuring the safety and reliability of electrical systems and for preventing costly repairs or downtime due to electrical issues. It is recommended to schedule regular maintenance to keep your electrical systems in good working order.",
+      "The service pertaining to Syed Construction and Maintenance s electrical maintenance company in Islamabad refers to the upkeep and repair of electrical systems and equipment. This can include tasks such as inspecting and testing electrical systems and components, identifying and repairing electrical issues, and replacing worn or damaged electrical components. Electrical maintenance service is typically performed by trained and certified Electrician who have the knowledge and skills to safely and effectively perform these tasks. Electrical maintenance is important for ensuring the safety and reliability of electrical systems and for preventing costly repairs or downtime due to electrical issues. It is recommended to schedule regular maintenance to keep your electrical systems in good working order.",
     description2: (
       <div>
         <h2>There are several reasons why you require our services.</h2>
@@ -1090,10 +1091,11 @@ export let serviceDetailsList = [
           </li>
         </ul>
         <p>
-          Overall, acquiring Syed Construction and Maintenance s electrical maintenance company in
-          Dubai is important for ensuring the safety, reliability,
-          cost-effectiveness, and energy efficiency of electrical systems and
-          equipment. Contact us for the economical quotes and packages.
+          Overall, acquiring Syed Construction and Maintenance s electrical
+          maintenance company in Islamabad is important for ensuring the safety,
+          reliability, cost-effectiveness, and energy efficiency of electrical
+          systems and equipment. Contact us for the economical quotes and
+          packages.
         </p>
       </div>
     ),
@@ -1104,7 +1106,7 @@ export let serviceDetailsList = [
     id: "3",
     img: "/assets/images/Handyman.jpeg",
     video: "https://www.youtube.com/watch?v=Hh3MjLaDNG8",
-    title: "Handyman in dubai",
+    title: "Handyman in Islamabad",
     title2:
       "Syed Construction and Maintenance  offers a wide range of services to address various home repair and improvement needs. These services include, but are not limited to:",
     title3:
@@ -1114,17 +1116,17 @@ export let serviceDetailsList = [
         <h2>Services Offered</h2>
         <ul>
           <li>
-            <strong>Carpentry:</strong> Syed Construction and Maintenance  has a team of skilled
-            carpenters who can handle everything from building custom cabinets
-            and shelving to repairing or replacing doors and windows. They can
-            also take care of deck repairs and installations, as well as other
-            woodwork projects.
+            <strong>Carpentry:</strong> Syed Construction and Maintenance has a
+            team of skilled carpenters who can handle everything from building
+            custom cabinets and shelving to repairing or replacing doors and
+            windows. They can also take care of deck repairs and installations,
+            as well as other woodwork projects.
           </li>
           <li>
             <strong>Plumbing:</strong> Whether it's fixing a leaky faucet,
-            unclogging a drain, or installing new plumbing fixtures,
-            Syed Construction and Maintenance  has experienced plumbers who can handle all your
-            plumbing needs with precision and efficiency.
+            unclogging a drain, or installing new plumbing fixtures, Syed
+            Construction and Maintenance has experienced plumbers who can handle
+            all your plumbing needs with precision and efficiency.
           </li>
           <li>
             <strong>Electrical:</strong> The company offers electrical services,
@@ -1133,16 +1135,16 @@ export let serviceDetailsList = [
             to ensure your home's electrical systems are up to code.
           </li>
           <li>
-            <strong>Painting:</strong> Syed Construction and Maintenance  provides both interior and
-            exterior painting services. Their professional painters can help you
-            refresh your home with a fresh coat of paint, whether it's a single
-            room or the entire house.
+            <strong>Painting:</strong> Syed Construction and Maintenance
+            provides both interior and exterior painting services. Their
+            professional painters can help you refresh your home with a fresh
+            coat of paint, whether it's a single room or the entire house.
           </li>
           <li>
             <strong>Home Repairs:</strong> From fixing drywall damage and
-            repairing roofing issues to tackling HVAC maintenance,
-            Syed Construction and Maintenance  is equipped to handle a wide variety of home repair
-            tasks.
+            repairing roofing issues to tackling HVAC maintenance, Syed
+            Construction and Maintenance is equipped to handle a wide variety of
+            home repair tasks.
           </li>
           <li>
             <strong>Kitchen and Bathroom Remodeling:</strong> The company also
@@ -1151,16 +1153,16 @@ export let serviceDetailsList = [
             meet your specific needs and preferences.
           </li>
           <li>
-            <strong>Tiling and Flooring:</strong> Syed Construction and Maintenance  can install or
-            repair various types of flooring, such as hardwood, tile, laminate,
-            or carpet. They are also skilled at tiling work for backsplashes,
-            floors, and showers.
+            <strong>Tiling and Flooring:</strong> Syed Construction and
+            Maintenance can install or repair various types of flooring, such as
+            hardwood, tile, laminate, or carpet. They are also skilled at tiling
+            work for backsplashes, floors, and showers.
           </li>
           <li>
             <strong>Maintenance Services:</strong> Regular home maintenance is
-            essential to prevent costly repairs. Syed Construction and Maintenance  offers
-            maintenance packages to keep your home in optimal condition
-            year-round.
+            essential to prevent costly repairs. Syed Construction and
+            Maintenance offers maintenance packages to keep your home in optimal
+            condition year-round.
           </li>
         </ul>
       </div>
@@ -1176,8 +1178,9 @@ export let serviceDetailsList = [
           </li>
           <li>
             <strong>Customer-Centric Approach:</strong> Customer satisfaction is
-            paramount for Syed Construction and Maintenance . They listen to your needs, provide
-            transparent pricing, and deliver on their promises.
+            paramount for Syed Construction and Maintenance . They listen to
+            your needs, provide transparent pricing, and deliver on their
+            promises.
           </li>
           <li>
             <strong>Quality Workmanship:</strong> The company is known for
@@ -1185,28 +1188,30 @@ export let serviceDetailsList = [
             regulations.
           </li>
           <li>
-            <strong>Timely and Reliable:</strong> Syed Construction and Maintenance  values your
-            time and strives to complete projects on schedule, ensuring minimal
-            disruption to your daily life.
+            <strong>Timely and Reliable:</strong> Syed Construction and
+            Maintenance values your time and strives to complete projects on
+            schedule, ensuring minimal disruption to your daily life.
           </li>
           <li>
-            <strong>Licensed and Insured:</strong> Syed Construction and Maintenance  is a licensed
-            and insured company, giving you peace of mind when working with
-            them.
+            <strong>Licensed and Insured:</strong> Syed Construction and
+            Maintenance is a licensed and insured company, giving you peace of
+            mind when working with them.
           </li>
           <li>
             <strong>Competitive Pricing:</strong> The company offers competitive
             pricing for all its services, providing value for your investment.
           </li>
           <li>
-            <strong>Free Consultations:</strong> Syed Construction and Maintenance  offers free
-            consultations and quotes, allowing you to discuss your project and
-            budget with their experts before committing.
+            <strong>Free Consultations:</strong> Syed Construction and
+            Maintenance offers free consultations and quotes, allowing you to
+            discuss your project and budget with their experts before
+            committing.
           </li>
           <li>
             <strong>One-Stop Solution:</strong> With a wide range of services
-            under one roof, Syed Construction and Maintenance  can handle all your home repair and
-            improvement needs without the need to hire multiple contractors.
+            under one roof, Syed Construction and Maintenance can handle all
+            your home repair and improvement needs without the need to hire
+            multiple contractors.
           </li>
         </ul>
       </div>
@@ -1218,7 +1223,7 @@ export let serviceDetailsList = [
     id: "6",
     img: "/assets/images/Cleaning.jpeg",
     video: "https://www.youtube.com/watch?v=I1kCO7wXR6M",
-    title: "Cleaning Service in dubai",
+    title: "Cleaning Service in Islamabad",
     title2:
       "Syed Construction and Maintenance  is your trusted partner when it comes to professional cleaning services for your home. With a passion for cleanliness and a commitment to customer satisfaction, we have built a reputation as a top-tier cleaning service company. Our mission is to transform your living spaces into spotless sanctuaries, ensuring your home is a place of comfort and hygiene",
     title3: "Join Our Growing Community of Satisfied Customers",
@@ -1226,12 +1231,12 @@ export let serviceDetailsList = [
       <div>
         <h2>Exceptional Cleaning Services</h2>
         <p>
-          At Syed Construction and Maintenance , we offer a comprehensive range of cleaning services
-          designed to meet all your household needs. Our team of highly trained
-          and experienced professionals is dedicated to delivering exceptional
-          results with every visit. Whether you need a one-time deep clean,
-          regular maintenance cleaning, or specialized services, we have you
-          covered. Our services include:
+          At Syed Construction and Maintenance , we offer a comprehensive range
+          of cleaning services designed to meet all your household needs. Our
+          team of highly trained and experienced professionals is dedicated to
+          delivering exceptional results with every visit. Whether you need a
+          one-time deep clean, regular maintenance cleaning, or specialized
+          services, we have you covered. Our services include:
         </p>
 
         <ul>
@@ -1248,10 +1253,11 @@ export let serviceDetailsList = [
             needs, whether it's weekly, bi-weekly, or monthly.
           </li>
           <li>
-            <strong>Specialized Cleaning:</strong> Syed Construction and Maintenance  can also take
-            care of specific cleaning tasks, such as carpet cleaning, upholstery
-            cleaning, window cleaning, and more. We use industry-leading
-            techniques and equipment to achieve the best results.
+            <strong>Specialized Cleaning:</strong> Syed Construction and
+            Maintenance can also take care of specific cleaning tasks, such as
+            carpet cleaning, upholstery cleaning, window cleaning, and more. We
+            use industry-leading techniques and equipment to achieve the best
+            results.
           </li>
           <li>
             <strong>Move-In/Move-Out Cleaning:</strong> Whether you're moving
@@ -1267,10 +1273,11 @@ export let serviceDetailsList = [
       <div>
         <h2>Our Commitment to Quality</h2>
         <p>
-          Our dedication to quality and customer satisfaction sets
-          Syed Construction and Maintenance  apart from the competition. We are committed to
-          providing a safe and healthy living environment for you and your loved
-          ones. Here's why we're the preferred choice for many homeowners:
+          Our dedication to quality and customer satisfaction sets Syed
+          Construction and Maintenance apart from the competition. We are
+          committed to providing a safe and healthy living environment for you
+          and your loved ones. Here's why we're the preferred choice for many
+          homeowners:
         </p>
         <ul>
           <li>
@@ -1290,8 +1297,8 @@ export let serviceDetailsList = [
           <li>
             <strong>Transparent Pricing:</strong> We provide transparent pricing
             with no hidden fees, and our rates are competitive. You'll always
-            know what to expect, ensuring peace of mind when choosing
-            Syed Construction and Maintenance .
+            know what to expect, ensuring peace of mind when choosing Syed
+            Construction and Maintenance .
           </li>
           <li>
             <strong>Satisfaction Guarantee:</strong> Your satisfaction is our

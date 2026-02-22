@@ -3,7 +3,6 @@ import { Alert, Button } from "react-bootstrap";
 import emailjs from "emailjs-com";
 import ReactLoading from "react-loading";
 import Swal from "sweetalert2";
-import PhoneInput from "react-phone-input-2";
 import "react-phone-input-2/lib/style.css";
 import Select from "react-select";
 import { services } from "../Data";
@@ -67,10 +66,10 @@ const ContactUs = () => {
     event.preventDefault();
     emailjs
       .sendForm(
-        "service_9ecy55l",
-        "template_8wr7t4p",
+        "service_ypnk2tw",
+        "template_bwjal6o",
         event.target,
-        "ng0MaJFLD-mYiEWhw"
+        "bMmOHpMi7ktjLFOFl", 
       )
       .then(
         (result) => {
@@ -84,7 +83,7 @@ const ContactUs = () => {
             navigate("/");
           });
         },
-        (error) => {}
+        (error) => {},
       );
     // navigate("/thank-you-message");
   };

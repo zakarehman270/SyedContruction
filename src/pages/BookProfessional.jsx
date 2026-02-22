@@ -20,7 +20,7 @@ const BookProfessional = () => {
     { label: "1 Hour", value: "1" },
   ]);
   const location = useLocation();
-  const navigate = useNavigate()
+  const navigate = useNavigate();
   let userID = location?.search?.replace("?", "");
   const [formData, setFormData] = useState({
     first_name: "",
@@ -79,10 +79,10 @@ const BookProfessional = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
     emailjs
       .sendForm(
-        "service_9ecy55l",
-        "template_8wr7t4p",
+        "service_ypnk2tw",
+        "template_bwjal6o",
         event.target,
-        "ng0MaJFLD-mYiEWhw"
+        "bMmOHpMi7ktjLFOFl",
       )
       .then(
         (result) => {
@@ -91,12 +91,12 @@ const BookProfessional = () => {
             title: "Thank You !",
             text: "Our team will review your details and get back to you as soon as possible.",
             icon: "success",
-          }).then(()=>{
-            console.log("helo this is called")
-            navigate("/")
+          }).then(() => {
+            console.log("helo this is called");
+            navigate("/");
           });
         },
-        (error) => {}
+        (error) => {},
       );
     // navigate("/thank-you-message");
   };
@@ -438,7 +438,7 @@ const BookProfessional = () => {
                   parseInt(
                     SelectedOptionNumberOfHour.value
                       ? SelectedOptionNumberOfHour.value
-                      : 1
+                      : 1,
                   )}
               </span>
             </div>
@@ -456,7 +456,7 @@ const BookProfessional = () => {
                       Date:             ${formData.date} 
                       Message:          ${formData.instruction}
                       Start Time:       ${formData.time} 
-                      Price:            ${"AED" + " " + parseInt(100) *parseInt(SelectedOptionNumberOfHour.value? SelectedOptionNumberOfHour.value: 1)} 
+                      Price:            ${"AED" + " " + parseInt(100) * parseInt(SelectedOptionNumberOfHour.value ? SelectedOptionNumberOfHour.value : 1)} 
 											SubmittedFrom:  ${"Booking Form"}
 														`}
                 onChange={() => {

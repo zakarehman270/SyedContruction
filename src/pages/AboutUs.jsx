@@ -81,12 +81,12 @@ const AboutUs = () => {
                 hiring aHomeFixRepair:
               </p>
               <p className="DescriptionInAboutUs">
-                while looking and hiring a HomeFixRepair in Dubai or UAE, it is
-                essential to keep in mind the subsequent :1. The HomeFixRepair
-                has the visa from a business enterprise with the perfect
-                exchange license, with unique HomeFixRepair related classes,
-                accepted via the financial development department.2. All
-                essential insurances are in region – third birthday party
+                while looking and hiring a HomeFixRepair in Islamabad or UAE, it
+                is essential to keep in mind the subsequent :1. The
+                HomeFixRepair has the visa from a business enterprise with the
+                perfect exchange license, with unique HomeFixRepair related
+                classes, accepted via the financial development department.2.
+                All essential insurances are in region – third birthday party
                 liability, people' medical insurance, and employees’
                 compensation in your peace of mind.3. because the high-quality
                 of the carrier is dependent on the person’s qualification,

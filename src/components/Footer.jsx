@@ -95,7 +95,7 @@ const Footer = () => {
               </div>
               <div className="col-md-4">
                 <p className="headingInFooter">Contact Information</p>
-                <p className="mt-3 SubHeadingInFooter">0516129852</p>
+                <p className="mt-3 SubHeadingInFooter">0307-4545836</p>
                 <p className="mt-2 SubHeadingInFooter">
                   tanveershaaah1990@gmil.com
                 </p>

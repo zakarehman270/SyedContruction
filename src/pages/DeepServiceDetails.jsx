@@ -29,7 +29,7 @@ const DeepServiceDetails = () => {
           <div className="col">
             <div className="d-flex flex-wrap gap-3 justify-content-between"> 
               <p className="ourServiceHeading headingColor text-wrap text-start ">
-                Professional {DataService?.title} In Dubai
+                Professional {DataService?.title} In Islamabad
               </p>
               <div className="d-flex">
                 <Link
