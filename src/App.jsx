@@ -17,7 +17,7 @@ function App() {
   return (
     <div>
       <FloatingWhatsApp
-        phoneNumber={"0374545836"}
+        phoneNumber={"+923074545836"}
         accountName={"Syed Construction and Maintenance"}
         darkMode={true}
         allowEsc={true}
